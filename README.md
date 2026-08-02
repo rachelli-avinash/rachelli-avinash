@@ -16,19 +16,9 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
-
-### Frameworks & Tools
-- React
-- Node.js
-- Git
-- GitHub
-- VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,git,github,vscode,mongodb,mysql,firebase,linux" />
+</p>
 
 ---
 
