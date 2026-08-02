@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rachelli Avinash</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+AI+Personal+OS;Always+Learning+New+Technologies" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rachelli-avinash&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
+</p>
+
 <h3 align="center">💻 Full Stack Developer | 🤖 AI Enthusiast | 🚀 CSE Student</h3>
 
 ---
