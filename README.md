@@ -30,13 +30,16 @@
 
 ---
 
-## 🎯 Goals for 2026
-
-- ✅ Build 10+ Quality Projects
-- ✅ Contribute to Open Source
-- ✅ Crack a Software Internship
-- ✅ Learn AI & Cloud
-
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rachelli-avinash&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelli-avinash&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ⭐ Thanks for visiting my profile!
