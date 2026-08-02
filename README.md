@@ -51,4 +51,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rachelli-avinash&theme=tokyonight&hide_border=true" />
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rachelli-avinash&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 ⭐ Thanks for visiting my profile!
