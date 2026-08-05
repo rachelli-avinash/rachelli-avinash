@@ -1,3 +1,7 @@
+<p align="center">
+  <img
+    src="https://github.com/rachelli-avinash/rachelli-avinash/blob/main/banner.png.jpeg"
+    </p>
 <h1 align="center">Hi 👋, I'm Rachelli Avinash</h1>
 
 <p align="center">
