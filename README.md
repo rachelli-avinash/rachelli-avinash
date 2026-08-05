@@ -78,4 +78,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rachelli-avinash&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+## ⚡ Fun Fact
+
+💡 I enjoy building AI-powered applications that solve real-world problems and I'm always excited to learn new technologies.
 ⭐ Thanks for visiting my profile!
