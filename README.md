@@ -25,12 +25,13 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,git,github,vscode,mongodb,mysql,firebase,linux" />
-</p>
 
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,firebase,git,github,vscode,linux&theme=dark"/>
+
+</p>
 ---
 
 ## 🚀 Current Projects
