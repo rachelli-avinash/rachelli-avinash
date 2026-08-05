@@ -83,6 +83,9 @@
   <img src="https://streak-stats.demolab.com?user=rachelli-avinash&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📈 Activity Graph
+
+[![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachelii-avinash&theme=tokyo-night)](https://github.com/rachelii-avinash)
 
 ## ⚡ Fun Fact
 
