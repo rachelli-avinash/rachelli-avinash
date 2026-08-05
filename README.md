@@ -68,11 +68,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rachelli-avinash&theme=tokyonight&hide_border=true" />
 </p>
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachelli-avinash&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ## ⚡ Fun Fact
 
