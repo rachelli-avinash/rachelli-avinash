@@ -33,6 +33,17 @@
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,firebase,git,github,vscode,linux&theme=dark"/>
 
 </p>
+<p align="center">
+
+![](https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge)
+
+![](https://img.shields.io/badge/GATE-2026-blue?style=for-the-badge)
+
+![](https://img.shields.io/badge/Focus-Full%20Stack-orange?style=for-the-badge)
+
+![](https://img.shields.io/badge/Learning-System%20Design-red?style=for-the-badge)
+
+</p>
 ---
 ## 🌐 Connect With Me
 
