@@ -83,25 +83,20 @@
   <img src="https://streak-stats.demolab.com?user=rachelli-avinash&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Activity Graph
+## 🎯 Current Goals
 
-[![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachelii-avinash&theme=tokyo-night)](https://github.com/rachelii-avinash)
+- 💻 Solve 500+ LeetCode Problems
+- 🌱 Build 10+ Real World Projects
+- 🤝 Contribute to Open Source
+- 📚 Master System Design
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rachelii-avinash&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
 
 ## ⚡ Fun Fact
 
 💡 I enjoy building AI-powered applications that solve real-world problems and I'm always excited to learn new technologies.
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rachelii-avinash/rachelii-avinash/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 
