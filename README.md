@@ -87,6 +87,12 @@
 
 [![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachelii-avinash&theme=tokyo-night)](https://github.com/rachelii-avinash)
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rachelii-avinash&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
 ## ⚡ Fun Fact
 
 💡 I enjoy building AI-powered applications that solve real-world problems and I'm always excited to learn new technologies.
