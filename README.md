@@ -88,6 +88,11 @@
 
 💡 I enjoy building AI-powered applications that solve real-world problems and I'm always excited to learn new technologies.
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rachelii-avinash/rachelii-avinash/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 
